@@ -1,0 +1,23 @@
+{
+  "name": "website_image_ripper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node scrape.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathankoike/website_image_ripper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathankoike/website_image_ripper/issues"
+  },
+  "homepage": "https://github.com/nathankoike/website_image_ripper#readme"
+}
